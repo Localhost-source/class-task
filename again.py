@@ -1,3 +1,4 @@
+#.let us take an example:-
 a = [1, 2]
 b = ["a", "e", "i", "o"]
 v = [1, 2, "a", "Hello", [1, 2], {1, 2}, 2.2]
